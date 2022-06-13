@@ -1,3 +1,1 @@
 gridpane-wordpress-template
-
-update
